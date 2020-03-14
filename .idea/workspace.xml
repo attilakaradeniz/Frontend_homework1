@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e1df798-ce00-4d2f-89f5-5abd170450c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunManager">
@@ -67,7 +68,7 @@
       <workItem from="1583577413613" duration="12983000" />
       <workItem from="1583764600095" duration="3300000" />
       <workItem from="1583866773581" duration="619000" />
-      <workItem from="1584183673836" duration="1562000" />
+      <workItem from="1584183673836" duration="15098000" />
     </task>
     <servers />
   </component>
@@ -145,5 +146,9 @@
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
     <state x="1736" y="155" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1583577235243" />
+    <state x="2056" y="244" key="run.anything.popup" timestamp="1584196560237">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2056" y="244" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584196560237" />
   </component>
 </project>
