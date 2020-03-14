@@ -64,7 +64,8 @@
       <workItem from="1583574181292" duration="633000" />
       <workItem from="1583574850293" duration="2443000" />
       <workItem from="1583577413613" duration="12983000" />
-      <workItem from="1583764600095" duration="2956000" />
+      <workItem from="1583764600095" duration="3300000" />
+      <workItem from="1583866773581" duration="619000" />
     </task>
     <servers />
   </component>
@@ -132,10 +133,12 @@
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
     <state x="1600" y="167" width="957" height="713" key="SettingsEditor/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1583586422166" />
-    <state x="1783" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583764609703">
-      <screen x="1600" y="0" width="1920" height="1040" />
+    <state x="2104" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584183687329">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="1783" y="345" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1583764609703" />
+    <state x="153" y="285" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583866774579" />
+    <state x="2104" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1584183687329" />
     <state x="1736" y="155" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1583577235243">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
